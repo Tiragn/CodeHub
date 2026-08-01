@@ -88,82 +88,142 @@ Go to the original CodeHub repository and submit a Pull Request from your fork!
 
 ## 👤 Contribution Model
 
-CodeHub uses a simple username-based contribution structure. **Your username is your space.**
+CodeHub uses a simple username-based contribution structure. **Your Github username is your space.**
 
 When contributing to CodeHub, your first step is to create a directory using your exact GitHub username. All of your contributions must live inside that directory.
 
-For example, if your GitHub username is `sefineh-ai`:
-
-```text
-CodeHub/
-└── sefineh-ai/
-    ├── python/
-    │   └── web-scraper/
-    ├── react/
-    │   └── dashboard/
-    ├── fastapi/
-    │   └── api-project/
-    ├── docker/
-    │   └── development-environment/
-    └── README.md
-
 ```
-
-Another contributor might have:
-
-```text
 CodeHub/
-├── sefineh-ai/
-│   └── ...
 │
-└── another-developer/
-    └── ...
-
+├── AI/
+│   └── github-username/
+│       └── contribution/
+│
+├── Programming-Languages/
+│   └── github-username/
+│       └── contribution/
+│
+├── Frameworks/
+│   └── github-username/
+│       └── contribution/
+│
+├── Databases/
+│   └── github-username/
+│       └── contribution/
+│
+├── Data-Structures-and-Algorithms/
+│   └── github-username/
+│       └── contribution/
+│
+├── Operating-Systems/
+│   └── github-username/
+│       └── contribution/
+│
+├── UI-UX/
+│   └── github-username/
+│       └── contribution/
+│
+├── Software-Architecture/
+│   └── github-username/
+│       └── contribution/
+│
+├── Web-Development/
+│   └── github-username/
+│       └── contribution/
+│
+├── Mobile-Development/
+│   └── github-username/
+│       └── contribution/
+│
+├── Data-Engineering/
+│   └── github-username/
+│       └── contribution/
+│
+├── Big-Data/
+│   └── github-username/
+│       └── contribution/
+│
+├── Cybersecurity/
+│   └── github-username/
+│       └── contribution/
+│
+├── Networking/
+│   └── github-username/
+│       └── contribution/
+│
+├── Distributed-Systems/
+│   └── github-username/
+│       └── contribution/
+│
+├── DevOps/
+│   └── github-username/
+│       └── contribution/
+│
+├── Cloud-Services/
+│   └── github-username/
+│       └── contribution/
+│
+├── Embedded-Systems/
+│   └── github-username/
+│       └── contribution/
+│
+├── Internet-of-Things/
+│   └── github-username/
+│       └── contribution/
+│
+├── Robotics/
+│   └── github-username/
+│       └── contribution/
+│
+├── Game-Development/
+│   └── github-username/
+│       └── contribution/
+│
+├── Blockchain/
+│   └── github-username/
+│       └── contribution/
+│
+├── Quantum-Computing/
+│   └── github-username/
+│       └── contribution/
+│
+├── Automation/
+│   └── github-username/
+│       └── contribution/
+│
+├── Testing-and-QA/
+│   └── github-username/
+│       └── contribution/
+│
+├── Developer-Tools/
+│   └── github-username/
+│       └── contribution/
+│
+├── Scripts/
+│   └── github-username/
+│       └── contribution/
+│
+├── Styles/
+│   └── github-username/
+│       └── contribution/
+│
+├── Ideas/
+│   └── github-username/
+│       └── contribution/
+│
+├── Technology-News/
+│   └── github-username/
+│       └── contribution/
+│
+├── README.md
+├── CONTRIBUTING.md
+├── SECURITY.md
+└── LICENSE
 ```
 
 This structure keeps contributions clearly separated and makes it easy to identify who published each project.
 
 ---
-
-## 📁 Organizing Your Contributions
-
-Inside your username directory, organize your projects clearly according to the technology, framework, or category they use.
-
-```text
-sefineh-ai/
-│
-├── python/
-│   ├── web-scraper/
-│   └── file-organizer/
-│
-├── javascript/
-│   └── api-client/
-│
-├── typescript/
-│   └── cli-tool/
-│
-├── react/
-│   └── dashboard/
-│
-├── fastapi/
-│   └── authentication-api/
-│
-├── django/
-│   └── blog-api/
-│
-├── docker/
-│   └── development-environment/
-│
-├── kubernetes/
-│   └── deployment-example/
-│
-├── bash/
-│   └── backup-script/
-│
-└── ai-ml/
-    └── text-classifier/
-
-```
 
 Avoid ambiguous names such as: `new.py`, `test.py`, `final.py`, `code2.py`, `project-new/`.
 
